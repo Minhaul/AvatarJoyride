@@ -1,3 +1,3 @@
 # Avatar Joyride
 
-This is a joint project made in processing by me and bluquar (www.github.com/bluquar).
+This is a joint game project made by bluquar (www.github.com/bluquar) and me.
